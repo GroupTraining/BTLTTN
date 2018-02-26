@@ -1,0 +1,14 @@
+E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmDangNhap.resources
+E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.Main.resources
+E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\BUS.dll
+E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAL.dll
+E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\BUS.pdb
+E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAL.pdb
