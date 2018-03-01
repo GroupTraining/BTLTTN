@@ -12,3 +12,6 @@ E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\
 E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAL.dll
 E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\BUS.pdb
 E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DAL.pdb
+E:\QuanLyNhanSu\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\QuanLyNhanSu\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\QuanLyNhanSu\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb

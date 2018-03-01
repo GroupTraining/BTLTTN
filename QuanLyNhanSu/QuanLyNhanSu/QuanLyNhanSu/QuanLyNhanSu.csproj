@@ -108,6 +108,13 @@
       <Name>DAL</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\arrow-back-1-icon.png" />
+    <Content Include="Resources\Household-Room-icon.png" />
+    <Content Include="Resources\Office-Customer-Male-Light-icon.png" />
+    <Content Include="Resources\project-plan-icon.png" />
+    <Content Include="Resources\Search-icon.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
