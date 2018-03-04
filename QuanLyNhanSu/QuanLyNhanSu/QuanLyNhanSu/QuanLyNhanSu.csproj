@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -58,6 +59,12 @@
     <Compile Include="GUI\Main.Designer.cs">
       <DependentUpon>Main.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\Tracuu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Tracuu.Designer.cs">
+      <DependentUpon>Tracuu.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\Timkiem.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,11 +73,38 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UCnhaplieu\UCduan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCnhaplieu\UCduan.Designer.cs">
+      <DependentUpon>UCduan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCnhaplieu\UCimage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCnhaplieu\UCimage.Designer.cs">
+      <DependentUpon>UCimage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCnhaplieu\UCnhanvien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCnhaplieu\UCnhanvien.Designer.cs">
+      <DependentUpon>UCnhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCnhaplieu\UCphongban.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCnhaplieu\UCphongban.Designer.cs">
+      <DependentUpon>UCphongban.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="GUI\DangNhap.resx">
       <DependentUpon>DangNhap.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Tracuu.resx">
+      <DependentUpon>Tracuu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\Timkiem.resx">
       <DependentUpon>Timkiem.cs</DependentUpon>
@@ -85,6 +119,18 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="UCnhaplieu\UCduan.resx">
+      <DependentUpon>UCduan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCnhaplieu\UCimage.resx">
+      <DependentUpon>UCimage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCnhaplieu\UCnhanvien.resx">
+      <DependentUpon>UCnhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCnhaplieu\UCphongban.resx">
+      <DependentUpon>UCphongban.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

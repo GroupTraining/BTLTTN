@@ -24,7 +24,7 @@ namespace QuanLyNhanSu.GUI
 
         private void menu_view_Click(object sender, EventArgs e)
         {
-            Timkiem timkiem = new Timkiem();
+            Tracuu timkiem = new Tracuu();
             timkiem.ShowDialog();
         }
     }
