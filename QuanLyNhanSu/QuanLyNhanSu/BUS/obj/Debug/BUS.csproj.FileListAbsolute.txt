@@ -5,10 +5,3 @@ E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\BUS\bin\Debug\DAL
 E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
 E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\BUS\obj\Debug\BUS.dll
 E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\BUS\obj\Debug\BUS.pdb
-E:\github\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\BUS\bin\Debug\BUS.dll
-E:\github\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\BUS\bin\Debug\BUS.pdb
-E:\github\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\BUS\bin\Debug\DAL.dll
-E:\github\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\BUS\bin\Debug\DAL.pdb
-E:\github\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
-E:\github\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\BUS\obj\Debug\BUS.dll
-E:\github\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\BUS\obj\Debug\BUS.pdb

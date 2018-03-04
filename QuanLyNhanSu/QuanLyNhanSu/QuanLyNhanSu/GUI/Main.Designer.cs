@@ -64,6 +64,7 @@
             this.menu_view.Name = "menu_view";
             this.menu_view.Size = new System.Drawing.Size(150, 25);
             this.menu_view.Text = "Tra cứu thông tin";
+            this.menu_view.Click += new System.EventHandler(this.menu_view_Click);
             // 
             // menu_opt
             // 
