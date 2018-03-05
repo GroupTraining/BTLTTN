@@ -15,3 +15,6 @@ E:\Thực tập nhóm\TrainingGroups\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\
 E:\QuanLyNhanSu\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
 E:\QuanLyNhanSu\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
 E:\QuanLyNhanSu\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\GiangHTT\Documents\GitHub\TTN\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\GiangHTT\Documents\GitHub\TTN\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\GiangHTT\Documents\GitHub\TTN\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
