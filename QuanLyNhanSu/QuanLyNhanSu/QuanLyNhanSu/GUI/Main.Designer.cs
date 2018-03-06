@@ -72,6 +72,7 @@
             this.menu_opt.Name = "menu_opt";
             this.menu_opt.Size = new System.Drawing.Size(160, 25);
             this.menu_opt.Text = "Tác vụ - chức năng";
+            this.menu_opt.Click += new System.EventHandler(this.menu_opt_Click);
             // 
             // menu_help
             // 

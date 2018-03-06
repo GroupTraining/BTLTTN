@@ -21,5 +21,12 @@ namespace QuanLyNhanSu.GUI
         {
 
         }
+
+        private void menu_opt_Click(object sender, EventArgs e)
+        {
+            SuaXoa sua = new SuaXoa();
+            this.Hide();
+            sua.Show();
+        }
     }
 }
