@@ -136,7 +136,7 @@
       <Name>BUS</Name>
     </ProjectReference>
     <ProjectReference Include="..\DAL\DAL.csproj">
-      <Project>{b47bfae5-3b4a-4e3d-b67c-cce96b3dd00c}</Project>
+      <Project>{609b59a2-a768-41f2-a230-0dcdd9fad08c}</Project>
       <Name>DAL</Name>
     </ProjectReference>
   </ItemGroup>

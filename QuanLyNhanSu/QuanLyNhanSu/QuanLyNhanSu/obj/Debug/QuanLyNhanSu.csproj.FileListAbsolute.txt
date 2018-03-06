@@ -33,3 +33,6 @@ C:\Users\DELL\Desktop\DuAn1\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\De
 C:\Users\DELL\Desktop\DuAn1\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\DevComponents.DotNetBar2.dll
 C:\Users\DELL\Desktop\DuAn1\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.Add1.resources
 C:\Users\DELL\Desktop\DuAn1\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.Edit.resources
+E:\github\QLNV\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+E:\github\QLNV\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+E:\github\QLNV\BTLTTN\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
