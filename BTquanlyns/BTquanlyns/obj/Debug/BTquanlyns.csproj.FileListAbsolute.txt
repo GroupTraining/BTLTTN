@@ -1,0 +1,16 @@
+c:\users\hong\documents\visual studio 2015\Projects\BTquanlyns\BTquanlyns\bin\Debug\BTquanlyns.exe.config
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\bin\Debug\BTquanlyns.exe
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\bin\Debug\BTquanlyns.pdb
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\bin\Debug\devcomponents.dotnetbar2.dll
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\bin\Debug\devcomponents.dotnetbar2.xml
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\obj\Debug\BTquanlyns.csprojResolveAssemblyReference.cache
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\obj\Debug\BTquanlyns.Form1.resources
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\obj\Debug\BTquanlyns.Properties.Resources.resources
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\obj\Debug\BTquanlyns.UCdulieu.UCphongban.resources
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\obj\Debug\BTquanlyns.csproj.GenerateResource.Cache
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\obj\Debug\BTquanlyns.exe
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\obj\Debug\BTquanlyns.pdb
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\obj\Debug\BTquanlyns.UCdulieu.UCnhanvien.resources
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\obj\Debug\BTquanlyns.UCdulieu.UCduan.resources
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\obj\Debug\BTquanlyns.Forms.Timkiem.resources
+C:\Users\Hong\Documents\Visual Studio 2015\Projects\BTquanlyns\BTquanlyns\obj\Debug\BTquanlyns.UCdulieu.UCimage.resources
